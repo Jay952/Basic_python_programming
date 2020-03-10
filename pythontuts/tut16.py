@@ -13,5 +13,5 @@ for item in dict1:
  for item in list2:
      if str(item).isnumeric() and item>=6:
          print(item)
-         
+
 
