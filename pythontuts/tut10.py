@@ -6,3 +6,9 @@ d1["Aditya"]="Junk food"
 d1["Mohan"]="Palak"
 del d1["Rohan"]
 print(d1)
+
+d1.update({"Ankita":"Salad"})
+print(d1)
+
+print(d1.keys())
+print(d1.items())

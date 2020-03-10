@@ -1,0 +1,8 @@
+s= set()
+print(type(s))
+s.add(1)
+s.add(2)
+print(s)
+s.add(3)
+s.add(1)
+print(s)
