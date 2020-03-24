@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72ce3254-c7b7-4578-959f-c7dd2263b040" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/F_strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/using.py" beforeDir="false" afterPath="$PROJECT_DIR$/using.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exersice1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exersice3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupynote.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/timepasss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut8.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +39,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.F_strings">
-    <configuration name="Exercise4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.tut17">
+    <configuration name="Exersice1_dictionary (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,7 +52,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exersice1_dictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exersice1_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythontuts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exersice1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lambda-function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tut10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lambda-function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tut10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tut17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,28 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rec.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="using" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythontuts" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tut17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tut17" />
+        <item itemvalue="Python.tut10" />
+        <item itemvalue="Python.Exersice1_dictionary (1)" />
+        <item itemvalue="Python.Exersice1_dictionary" />
         <item itemvalue="Python.F_strings" />
-        <item itemvalue="Python.using" />
-        <item itemvalue="Python.lambda-function" />
-        <item itemvalue="Python.Exercise4" />
-        <item itemvalue="Python.rec" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +169,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="409" y="17" key="#Exersice1" timestamp="1585030861680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="17" key="#Exersice1/0.0.1366.728@0.0.1366.728" timestamp="1585030861680" />
+    <state x="409" y="17" key="#Exersice1_dictionary" timestamp="1585030926347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="17" key="#Exersice1_dictionary/0.0.1366.728@0.0.1366.728" timestamp="1585030926347" />
     <state x="447" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584206141528">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -170,26 +185,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="409" y="17" key="#tut8/0.0.1366.728@0.0.1366.728" timestamp="1583830588847" />
-    <state width="1345" height="175" key="GridCell.Tab.0.bottom" timestamp="1585029409351">
+    <state width="1345" height="175" key="GridCell.Tab.0.bottom" timestamp="1585031923173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585029409351" />
-    <state width="1345" height="175" key="GridCell.Tab.0.center" timestamp="1585029409347">
+    <state width="1345" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585031923173" />
+    <state width="1345" height="175" key="GridCell.Tab.0.center" timestamp="1585031923173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585029409347" />
-    <state width="1345" height="175" key="GridCell.Tab.0.left" timestamp="1585029409347">
+    <state width="1345" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585031923173" />
+    <state width="1345" height="175" key="GridCell.Tab.0.left" timestamp="1585031923173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585029409347" />
-    <state width="1345" height="175" key="GridCell.Tab.0.right" timestamp="1585029409351">
+    <state width="1345" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585031923173" />
+    <state width="1345" height="175" key="GridCell.Tab.0.right" timestamp="1585031923173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585029409351" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584687642075">
+    <state width="1345" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585031923173" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1585031912767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584687642075" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585031912767" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1585031912752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585031912752" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1585031912752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585031912752" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1585031912767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585031912767" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585030698221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585030698221" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
