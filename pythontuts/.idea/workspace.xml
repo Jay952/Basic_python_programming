@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72ce3254-c7b7-4578-959f-c7dd2263b040" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise6_Snake_Wtaer_Gun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How_import_works_in_Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JoinFUNCTION.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutmain1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutmain2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enumartehai.py" beforeDir="false" afterPath="$PROJECT_DIR$/Enumartehai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise6_Snake_Wtaer_Gun.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise6_Snake_Wtaer_Gun.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Timeda">
+  <component name="RunManager" selected="Python.Exercise6_Snake_Wtaer_Gun">
     <configuration name="Exercise6_Snake_Wtaer_Gun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Timeda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="How_import_works_in_Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Timeda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/How_import_works_in_Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="JoinFUNCTION" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kwargs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JoinFUNCTION.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tut10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tutmain1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tut10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutmain1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tut17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tutmain2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tut17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutmain2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Timeda" />
-        <item itemvalue="Python.kwargs" />
         <item itemvalue="Python.Exercise6_Snake_Wtaer_Gun" />
-        <item itemvalue="Python.tut17" />
-        <item itemvalue="Python.tut10" />
+        <item itemvalue="Python.JoinFUNCTION" />
+        <item itemvalue="Python.tutmain2" />
+        <item itemvalue="Python.tutmain1" />
+        <item itemvalue="Python.How_import_works_in_Python" />
       </list>
     </recent_temporary>
   </component>
@@ -171,30 +175,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="409" y="17" key="#Exersice1_dictionary/0.0.1366.728@0.0.1366.728" timestamp="1585030926347" />
-    <state x="447" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584206141528">
+    <state x="447" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585159755138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="447" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584206141528" />
+    <state x="447" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585159755138" />
     <state x="409" y="17" key="#tut8" timestamp="1583830588847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="409" y="17" key="#tut8/0.0.1366.728@0.0.1366.728" timestamp="1583830588847" />
-    <state width="1345" height="175" key="GridCell.Tab.0.bottom" timestamp="1585156106922">
+    <state width="1345" height="175" key="GridCell.Tab.0.bottom" timestamp="1585165480446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585156106922" />
-    <state width="1345" height="175" key="GridCell.Tab.0.center" timestamp="1585156106922">
+    <state width="1345" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585165480446" />
+    <state width="1345" height="175" key="GridCell.Tab.0.center" timestamp="1585165480446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585156106922" />
-    <state width="1345" height="175" key="GridCell.Tab.0.left" timestamp="1585156106921">
+    <state width="1345" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585165480446" />
+    <state width="1345" height="175" key="GridCell.Tab.0.left" timestamp="1585165480446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585156106921" />
-    <state width="1345" height="175" key="GridCell.Tab.0.right" timestamp="1585156106922">
+    <state width="1345" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585165480446" />
+    <state width="1345" height="175" key="GridCell.Tab.0.right" timestamp="1585165480446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585156106922" />
+    <state width="1345" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585165480446" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1585031912767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
