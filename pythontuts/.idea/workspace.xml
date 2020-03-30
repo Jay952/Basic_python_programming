@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72ce3254-c7b7-4578-959f-c7dd2263b040" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/OStuts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops9.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise7_Healthy_Programmer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise7_Healthy_Programmer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators_Practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/generators_Practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +33,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Mini_Project_1">
-    <configuration name="Mini_Project_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.REG_EXP_TUT">
+    <configuration name="Exercise_8-" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,7 +46,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini_Project_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_8-.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,7 +55,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="abstract_bc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="REG_EXP_TUT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abstract_bc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/REG_EXP_TUT.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="object_Introspection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="REQ_Module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_Introspection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/REQ_Module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oops14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="jsonn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jsonn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pythontuts_setters_And_property_Decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pickleTuts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontuts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythontuts_setters_And_property_Decorators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pickleTuts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Mini_Project_1" />
-        <item itemvalue="Python.object_Introspection" />
-        <item itemvalue="Python.pythontuts_setters_And_property_Decorators" />
-        <item itemvalue="Python.abstract_bc" />
-        <item itemvalue="Python.oops14" />
+        <item itemvalue="Python.REG_EXP_TUT" />
+        <item itemvalue="Python.pickleTuts" />
+        <item itemvalue="Python.jsonn" />
+        <item itemvalue="Python.REQ_Module" />
+        <item itemvalue="Python.Exercise_8-" />
       </list>
     </recent_temporary>
   </component>
@@ -177,41 +179,45 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="409" y="17" key="#tut8/0.0.1366.728@0.0.1366.728" timestamp="1583830588847" />
-    <state width="1345" height="147" key="GridCell.Tab.0.bottom" timestamp="1585329464713">
+    <state width="1345" height="147" key="GridCell.Tab.0.bottom" timestamp="1585559154718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="147" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585329464713" />
-    <state width="1345" height="147" key="GridCell.Tab.0.center" timestamp="1585329464713">
+    <state width="1345" height="147" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585559154718" />
+    <state width="1345" height="147" key="GridCell.Tab.0.center" timestamp="1585559154718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="147" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585329464713" />
-    <state width="1345" height="147" key="GridCell.Tab.0.left" timestamp="1585329464713">
+    <state width="1345" height="147" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585559154718" />
+    <state width="1345" height="147" key="GridCell.Tab.0.left" timestamp="1585559154717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="147" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585329464713" />
-    <state width="1345" height="147" key="GridCell.Tab.0.right" timestamp="1585329464713">
+    <state width="1345" height="147" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585559154717" />
+    <state width="1345" height="147" key="GridCell.Tab.0.right" timestamp="1585559154718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="147" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585329464713" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1585241051319">
+    <state width="1345" height="147" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585559154718" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1585369826348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585241051319" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1585241051319">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585369826348" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1585369826332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585241051319" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1585241051319">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585369826332" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1585369826332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585241051319" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1585241051319">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585369826332" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1585369826348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585241051319" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585030698221">
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585369826348" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585503769755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585030698221" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585503769755" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585343136709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585343136709" />
   </component>
 </project>
