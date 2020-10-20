@@ -8,6 +8,7 @@ print(f.readlines())
 
 content=f.read()
 print("1",content)
+print("Now")
 content=f.read(4566)
 print("2",content)
 

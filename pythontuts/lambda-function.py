@@ -8,7 +8,7 @@ print(addition(5,8))
 
 # def a_first(a):
 #     return a[0]
-a_first=lambda a:a[1]
+a_first=lambda a:a[0]
 
 a=[[1,25],[5,9],[0,1]]
 a.sort(key=a_first)

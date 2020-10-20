@@ -6,7 +6,7 @@ while(1):
     print(i+1, end=" ")
     if i==12:
         break
-    i=i+1
+    i=i+2
 
 
 k=0

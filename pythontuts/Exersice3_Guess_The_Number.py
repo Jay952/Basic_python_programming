@@ -1,7 +1,7 @@
 i=0
 j=int(5)
 a=18
-print("Guess the number guys,toatal guesses=5")
+print("Guess the number guys,total guesses=5")
 
 while(j>0):
     k = int(input("Enter any Number"))

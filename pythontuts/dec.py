@@ -12,11 +12,13 @@ def funcret(num):
 
 a=funcret(0)
 print(a)
+print("Now")
 
 def executor(func):
     func("this")
 
 executor(print)
+print("Now again")
 
 def dec1(func1):
     def nowexec():
